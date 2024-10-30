@@ -19,7 +19,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+João Vitor Leal de Castro
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
