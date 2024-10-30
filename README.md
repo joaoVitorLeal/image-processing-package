@@ -1,9 +1,7 @@
 # package_name
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+Fork of the original image manipulation repository, aimed at adding new features, improving algorithm efficiency, and adapting the package for specific projects. Includes updates, tests, and documentation enhancements.
 
 ## Installation
 
